@@ -1,7 +1,7 @@
 package org.java.programs;
 
 public class primen {
-
+//avinash
 	public static void main(String[] args) {
 		
 		int n= 25,j=2, temp=0;
