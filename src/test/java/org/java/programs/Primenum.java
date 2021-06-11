@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Primenum {
 
 	public static void main(String[] args) {
-
+//avinash
 		int m= 34; 
 		System.out.println(m/2);
 		
